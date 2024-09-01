@@ -13,6 +13,12 @@ I'm **Yogesh Abuj**, a dedicated MSc student in Computer Science at Indira Colle
 ❓ **Ask me about**: Web development, database management, data privacy.
 
 ## Stats
+## My GitHub Stats 📈
+
+![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujyogesh&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abujyogesh&layout=compact&theme=radical)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujyogesh&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
