@@ -18,7 +18,7 @@ I'm **Yogesh Abuj**, a dedicated MSc student in Computer Science at Indira Colle
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/yogesh-abuj-243307261/) | [GitHub](https://github.com/abujyogesh) | [Email](mailto:abujyogesh2020@gmail.com) | [Instagram](https://www.instagram.com/abuj_yogesh/?next=%2F&hl=en) | [HackerRank](https://www.hackerrank.com/profile/abujyogesh2020)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-abuj-243307261/) | [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/abujyogesh) | [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:abujyogesh2020@gmail.com) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abuj_yogesh/?next=%2F&hl=en) | [![HackerRank](https://img.shields.io/badge/HackerRank-%232E8B57?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abujyogesh2020)
 
 ## Languages and Tools
 
