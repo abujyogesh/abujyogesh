@@ -14,7 +14,7 @@ I'm **Yogesh Abuj**, a dedicated MSc student in Computer Science at Indira Colle
 
 ## Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-abujyogesh&theme=dark&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abujyogesh&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=abujyogesh&show_icons=true&count_private=true&theme=dark&line_height=24)
 
