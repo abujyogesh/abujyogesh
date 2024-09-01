@@ -83,7 +83,7 @@ I'm **Yogesh Abuj**, a dedicated MSc student in Computer Science at Indira Colle
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="30" alt="C"/>
 </a>
-
+<br><br>
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abujyogesh&layout=compact&theme=radical)
