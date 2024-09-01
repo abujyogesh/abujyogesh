@@ -1,4 +1,3 @@
----
 
 # Hi there! 👋🏾
 
@@ -15,7 +14,7 @@ I'm **Yogesh Abuj**, a dedicated MSc student in Computer Science at Indira Colle
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujyogesh&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## Connect with me
 
@@ -25,4 +24,3 @@ I'm **Yogesh Abuj**, a dedicated MSc student in Computer Science at Indira Colle
 
 Java | C++ | PHP | Python | MySQL | PostgreSQL | HTML | CSS | JavaScript | Bootstrap | Git | C 
 
---
