@@ -24,6 +24,10 @@ I'm **Yogesh Abuj**, a dedicated MSc student in Computer Science at Indira Colle
 
 ## Languages and Tools 🛠️
 
+<a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=40" height="30" alt="Java"/>
+</a>
+
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="30" alt="Java"/>
